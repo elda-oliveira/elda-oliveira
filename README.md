@@ -5,15 +5,19 @@
        src="https://i.pinimg.com/originals/1a/d1/f4/1ad1f4120b2e06eb866f462766920cee.gif">
     </div>
 
-    
-**About me** 
-
+ **About me**
+<img src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif" width="60" />    
 
 - 😍 Pronoun: she/she;
+-  Pronome: ela/dela;
 - 💬 Ask me about anything tech related, I'll be happy to help;
+-  Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;
 - 🔭 I'm currently learning Typescript and ReactJs;
+-  Atualmente estou aprendendo Typescript e ReactJs;
 - 📕 I love science fiction and horror books;
+- Eu amo ficção científica e livros de terror;
 - 🐍 I have a pet snake.
+-  Eu tenho uma cobra de estimação.
 
 
 <p align="center">
@@ -23,11 +27,11 @@
  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
  <div>
   <a href="https://github.com/elda-paz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elda-paz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-paz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elda-paz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-paz&layout=compact&langs_count=7&theme=jolly"/>
     
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elda-paz&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elda-paz&theme=jolly&hide_border=true)](https://git.io/streak-stats)
     
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28">Languages and Tools:</h3>
   </summary>
@@ -69,5 +73,8 @@
 
  </p>
 <img height="350" alt="Thanks for visiting me" width="100%" src="https://i.pinimg.com/originals/b5/f6/6a/b5f66a309cb747fed67e7e6f50a5d2b9.gif" />
+                                                                                                                                              
+<h1> OBRIGADA PELA VISITA !! THANKS FOR VISITING ME  ! 💗 <img src="https://i.pinimg.com/originals/59/91/da/5991da42769d1826ea219fb3baa827df.gif" width="60" />   </h1>
+                                                                                                               
 
 
