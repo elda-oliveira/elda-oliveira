@@ -2,7 +2,7 @@
 
 <div align="center">
    <img align="right" alt="elda-pic" height="150" style="border-radius:50px;" 
-       src="https://i.pinimg.com/originals/bf/32/80/bf3280e00dcf8a8c06ac3ff67598bfaf.gif">
+       src="https://i.pinimg.com/originals/1a/d1/f4/1ad1f4120b2e06eb866f462766920cee.gif">
     </div>
 
     
@@ -17,17 +17,17 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Always+learning+new+things;Engineering+student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%f988ff&lines=Always+learning+new+things;Engineering+student"></a>
 </p>
 
  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
  <div>
   <a href="https://github.com/elda-paz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elda-paz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-paz&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elda-paz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-paz&layout=compact&langs_count=7&theme=dracula"/>
     
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elda-paz&theme=buefy&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elda-paz&theme=dracula&hide_border=true)](https://git.io/streak-stats)
     
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28">Languages and Tools:</h3>
   </summary>
@@ -41,7 +41,7 @@
   <img align="center" alt="elda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="elda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="elda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="right" alt="elda-sun" height=""100" width="150" src="https://i.pinimg.com/originals/27/a4/79/27a4795159bbd3e75f597d098b61c1a1.gif">
+    <img align="right" alt="elda-sun" height=""100" width="150" src="https://i.pinimg.com/originals/c2/d6/1d/c2d61d8b124e3a7cbfc4de38a727419a.gif">
 
 </div>
  
@@ -62,15 +62,12 @@
  
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
                                                                                                            
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elda-az&theme=gruvbox) 
-
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elda-paz&theme=dracula) 
+                                                                                                           
+                                                                                                         
 </div>
 
- ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Total Profile Views 🕵️‍♀️: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/elda-paz/count.svg"/>
  </p>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
+<img height="350" alt="Thanks for visiting me" width="100%" src="https://i.pinimg.com/originals/b5/f6/6a/b5f66a309cb747fed67e7e6f50a5d2b9.gif" />
 
 
