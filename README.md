@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Elda ! 💓  </h1>
+<h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Elda ! 💗  </h1>
 
 <div align="center">
    <img align="right" alt="elda-pic" height="150" style="border-radius:50px;" 
@@ -9,9 +9,9 @@
 **About me** 
 
 
-- 😄 Pronoun: she/she;
+- 😍 Pronoun: she/she;
 - 💬 Ask me about anything tech related, I'll be happy to help;
-- 🌱 I'm currently learning Typescript and ReactJs;
+- 🔭 I'm currently learning Typescript and ReactJs;
 - 📕 I love science fiction and horror books;
 - 🐍 I have a pet snake.
 
