@@ -8,7 +8,7 @@ Hello, eu sou a Elda !!!
 
 <div align="center">
     <img align="right" alt="elda-pic" height="150" style="border-radius:50px;" 
-       src="https://share-cdn.picrew.me/shareImg/org/202203/338224_KUxJGwXi.png">
+       src="https://i.pinimg.com/originals/bf/32/80/bf3280e00dcf8a8c06ac3ff67598bfaf.gif">
   <a href="https://github.com/elda-paz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elda-paz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-paz&layout=compact&langs_count=7&theme=buefy"/>
