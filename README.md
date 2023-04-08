@@ -69,13 +69,10 @@
  
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
                                                                                                            
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elda-paz&theme=dracula) 
+  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=elda-paz&theme=default) 
                                                                                                            
                                                                                                          
 </div>
-
- </p>
-<img height="350" alt="Thanks for visiting me" width="100%" src="https://i.pinimg.com/originals/b5/f6/6a/b5f66a309cb747fed67e7e6f50a5d2b9.gif" />
                                                                                                                                               
 <h1> OBRIGADA PELA VISITA !! THANKS FOR VISITING ME  ! 💗 <img src="https://i.pinimg.com/originals/59/91/da/5991da42769d1826ea219fb3baa827df.gif" width="60" />   </h1>
                                                                                                                
