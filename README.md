@@ -11,7 +11,7 @@
  **About me**
 <img src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif" width="60" />    
 
-"Meu nome é Elda e tenho menos de 2 anos de experiência na área de TI. Comecei a programar recentemente e estou empolgada em mergulhar nesse campo fascinante. Tenho interesse em tecnologia, cibersegurança e IA, e estou animada para aprender mais e aprimorar minhas habilidades nesses temas." 👋
+Meu nome é Elda e tenho menos de 2 anos de experiência na área de TI. Comecei a programar recentemente e estou empolgada em mergulhar nesse campo fascinante. Tenho interesse em tecnologia, cibersegurança e IA, e estou animada para aprender mais e aprimorar minhas habilidades nesses temas." 👋
 
 Atualmente, possuo conhecimentos em algumas linguagens de programação, como Python, C++, e Mysql. Além disso, estou adquirindo experiência em virtualização, especialmente com Azure.Estou constantemente buscando aprender cada vez mais, expandir meu conhecimento e aprender novas linguagens de programação.
 
