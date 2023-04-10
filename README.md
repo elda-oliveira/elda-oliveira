@@ -18,7 +18,7 @@ Estou constantemente buscando aprender cada vez mais, expandir meu conhecimento 
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%f988ff&lines=Always+learning+new+things;Systems+Development+and+Analysis+student"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F988FF&width=461&height=71&lines=Always+learning+new+things;Systems+Analysis+and+Development++student" alt="Typing SVG" /></a>
 </p>
 
  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
