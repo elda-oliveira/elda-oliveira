@@ -11,16 +11,9 @@
  **About me**
 <img src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif" width="60" />    
 
-- 😍 Pronoun: she/she;
--  Pronome: ela/dela;
-- 💬 Ask me about anything tech related, I'll be happy to help;
--  Pergunte-me sobre qualquer coisa relacionada à tecnologia, ficarei feliz em ajudar;
-- 🔭 I'm currently learning Typescript and ReactJs;
--  Atualmente estou aprendendo Typescript e ReactJs;
-- 📕 I love science fiction and horror books;
-- Eu amo ficção científica e livros de terror;
-- 🐍 I have a pet snake.
--  Eu tenho uma cobra de estimação.
+"Meu nome é Elda e tenho menos de 2 anos de experiência na área de TI. Comecei a programar recentemente e estou empolgada em mergulhar nesse campo fascinante. Tenho interesse em tecnologia, cibersegurança e IA, e estou animada para aprender mais e aprimorar minhas habilidades nesses temas." 👋
+
+Atualmente, possuo conhecimentos em algumas linguagens de programação, como Python, C++, e Mysql. Além disso, estou adquirindo experiência em virtualização, especialmente com Azure. Embora ainda esteja em processo de aprendizado, estou animada em expandir minhas habilidades nessa área
 
 
 <p align="center">
