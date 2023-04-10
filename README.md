@@ -1,7 +1,7 @@
 <img height="350" alt="bem vindo" width="100%" src="https://i.pinimg.com/originals/40/31/ab/4031abad70acc46069766c4c7a228bef.gif" />
 
 
-<h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Elda ! 💗  </h1>
+<h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" style="display: inline; vertical-align: middle;"/> !! I'm Elda ! 💗  </h1>
 
 <div align="center">
    <img align="right" alt="elda-pic" height="150" style="border-radius:50px;" 
