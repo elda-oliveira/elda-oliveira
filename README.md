@@ -3,7 +3,7 @@
     </div>
 
 
-Bem-vindo ao meu perfil! Sou estudante de ADS (Tecnologo). 
+Meu nome é Elda e sou estudante de ADS (Tecnologo). 
 Sou desenvolvedor ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps. 👋
 💗
 
@@ -32,7 +32,6 @@ Além disso, estou adquirindo experiência em virtualização, especialmente com
   </p>
   </div>  
 <div style="display: inline_block"><br>
-    
   <img align="center" alt="elda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="elda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="elda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
