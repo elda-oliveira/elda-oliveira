@@ -1,19 +1,75 @@
-<h1 align="center">Olá 👋, sou Haru</h1>
-<h3 align="center">Bem-vindo ao meu perfil! Sou estudante de ADS (Tecnólogo). Sou desenvolvedor há 1 ano e comecei a me aprofundar no inicio do ano em DevOps. 👋</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elda-paz&label=Profile%20views&color=0e75b6&style=flat" alt="elda-paz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile -trophy.vercel.app/?username=elda-paz" alt="elda-paz" /></a> </p>
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align ="esquerda">
 
 
+<h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Elda ! 💗  </h1>
+<div align="center">
+   <img align="right" alt="elda-pic" height="150" style="border-radius:50px;" 
+       src="https://i.pinimg.com/originals/1a/d1/f4/1ad1f4120b2e06eb866f462766920cee.gif">
+    </div>
 
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www. djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height=" 40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target ="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" altura ="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw. githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https: //www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height= "40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux. org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> < a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql /mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height ="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www. photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www. python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python " width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https:/ /raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+ **About me**
+<img src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif" width="60" />    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elda-paz&show_icons=true&locale=en&layout=compact" alt="elda- paz" /></p>
+Bem-vindo ao meu perfil! Sou estudante de ADS (Tecnologo). Sou desenvolvedor ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps. 👋
+💗
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=elda-paz&show_icons=true&locale=en" alt ="elda-paz" /></p>
+ **Conhecimentos**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elda-paz&" alt= "elda-paz" /></p>
+Atualmente, possuo conhecimentos em algumas linguagens de programação, como Python, C++, e Mysql. 
+Além disso, estou adquirindo experiência em virtualização, especialmente com Azure.
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F988FF&width=461&height=71&lines=Always+learning+new+things;Systems+Analysis+and+Development++student" alt="Typing SVG" /></a>
+</p>
+
+ ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
+ <div>
+  <a href="https://github.com/elda-paz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elda-paz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-paz&layout=compact&langs_count=7&theme=jolly"/>
+    
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elda-paz&theme=jolly&hide_border=true)](https://git.io/streak-stats)
+    
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28">Languages and Tools:</h3>
+  </summary>
+</br>
+  </p>
+  </div>  
+<div style="display: inline_block"><br>
+    
+  <img align="center" alt="elda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="elda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="elda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="elda-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="elda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="right" alt="elda-sun" height=""100" width="150" src="https://i.pinimg.com/originals/c2/d6/1d/c2d61d8b124e3a7cbfc4de38a727419a.gif">
+
+</div>
+ 
+ ##
+  
+</div>  
+                                                                                                                                                  
+  <a href="https://instagram.com/@haru.tattoo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/elda" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/Haru-..0#3413" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
+  <a href = "mailto:eldapaz23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eldaoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+    
+  ![Snake animation](https://github.com/elda-paz/elda-paz/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
+                                                                                                           
+  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=elda-paz&theme=default) 
+                                                                                                           
+                                                                                                         
+</div>
+                                                                                                                                              
+<h1> OBRIGADA PELA VISITA !! THANKS FOR VISITING ME  ! 💗 <img src="https://i.pinimg.com/originals/59/91/da/5991da42769d1826ea219fb3baa827df.gif" width="60" />   </h1>
+                                                                                                               
+
+
