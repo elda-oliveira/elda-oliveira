@@ -1,10 +1,4 @@
 
-<h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Elda ! 💗  </h1>
-<div align="center">
-   <img align="right" alt="elda-pic" height="150" style="border-radius:50px;" 
-       src="">
-    </div>
-
 
 Bem-vindo ao meu perfil! Sou estudante de ADS (Tecnologo). Sou desenvolvedor ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps. 👋
 💗
