@@ -3,7 +3,8 @@
     </div>
 
 
-Bem-vindo ao meu perfil! Sou estudante de ADS (Tecnologo). Sou desenvolvedor ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps. 👋
+Bem-vindo ao meu perfil! Sou estudante de ADS (Tecnologo). 
+Sou desenvolvedor ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps. 👋
 💗
 
  **Conhecimentos:** <img src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif" width="60" />    
