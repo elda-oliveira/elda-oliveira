@@ -6,13 +6,10 @@
        src="https://i.pinimg.com/originals/1a/d1/f4/1ad1f4120b2e06eb866f462766920cee.gif">
     </div>
 
- **About me**
-<img src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif" width="60" />    
-
 Bem-vindo ao meu perfil! Sou estudante de ADS (Tecnologo). Sou desenvolvedor ha 1 ano e comecei a me aprofundar no inicio do ano em DevOps. 👋
 💗
 
- **Conhecimentos**
+ **Conhecimentos** <img src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif" width="60" />    
 
 Atualmente, possuo conhecimentos em algumas linguagens de programação, como Python, C++, e Mysql. 
 Além disso, estou adquirindo experiência em virtualização, especialmente com Azure.
