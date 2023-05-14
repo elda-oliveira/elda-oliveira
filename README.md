@@ -4,9 +4,6 @@
 
  **Conhecimentos:** <img src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif" width="60" />    
 
-Atualmente, possuo conhecimentos em algumas linguagens de programação, como Python, C++, e Mysql. 
-Além disso, estou adquirindo experiência em virtualização, especialmente com Azure.
-
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F988FF&width=461&height=71&lines=Always+learning+new+things;Systems+Analysis+and+Development++student" alt="Typing SVG" /></a>
