@@ -2,10 +2,6 @@
 <div align="center">
     </div>
 
-
-
-💗
-
  **Conhecimentos:** <img src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif" width="60" />    
 
 Atualmente, possuo conhecimentos em algumas linguagens de programação, como Python, C++, e Mysql. 
