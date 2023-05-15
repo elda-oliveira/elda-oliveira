@@ -1,8 +1,17 @@
 <h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !!Bem vindo! 💗  </h1>
 <div align="center">
     </div>
+    
+    
+• 🛡️ Independent Cybersecurity Learner & Aspiring Ethical Hacker
 
- **Conhecimentos:** <img src="https://i.pinimg.com/originals/e3/da/93/e3da939bd48f9abb31fea4557fa9a5f1.gif" width="60" />    
+• 🐧 GNU/Linux lover
+
+• 👩‍💻 Starting to program gradually in Python & Java
+
+• 💽 Passion for computer architecture since childhood
+
+• 👾 I love technology, innovation and creativity
 
 
 <p align="center">
