@@ -9,7 +9,7 @@
 
 • 👩‍💻 Starting to program gradually in Python & Java
 
-• 💽 Passion for computer architecture since childhood
+• 💽 Passion for computer architecture 
 
 • 👾 I love technology, innovation and creativity
 
