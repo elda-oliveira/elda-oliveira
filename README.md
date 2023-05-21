@@ -1,5 +1,9 @@
-<h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !!Bem vindo! 💗  </h1>
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=19&pause=1000&color=36BCF7FF&width=461&height=71&lines=Hello!+Welcome+to+my+GitHub.;Systems+Analysis+and+Development++student;Always+learning+new+things." alt="Typing SVG" /></a>
+</p>
     </div>
     
     
@@ -13,23 +17,34 @@
 
 • 👾 I love technology, innovation and creativity
 
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F988FF&width=461&height=71&lines=Always+learning+new+things;Systems+Analysis+and+Development++student" alt="Typing SVG" /></a>
-</p>
-
  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
  <div>
   <a href="https://github.com/elda-paz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elda-paz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-paz&layout=compact&langs_count=7&theme=jolly"/>
+     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elda-paz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Elda Paz github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-paz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=elda-paz&theme=gotham) 
     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elda-paz&theme=jolly&hide_border=true)](https://git.io/streak-stats)
+   
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elda-paz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
     
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28">Languages and Tools:</h3>
+<div align="center">  
+ <a href="https://discord.gg/Haru-..0#3413" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
+  <a href = "mailto:eldapaz23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eldaoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
+
+    
+<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28">Languages and Tools:</h3>
   </summary>
   </p>
-  </div>  
+<div align="center">  
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="elda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="elda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -40,23 +55,12 @@
 </div>
  
  ##
-  
-</div>  
-                                                                                                                                                  
- <a href="https://discord.gg/Haru-..0#3413" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
-  <a href = "mailto:eldapaz23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eldaoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
- 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
-                                                                                                           
-  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=elda-paz&theme=default) 
-                                                                                                           
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{elda-paz}/count.svg" /></p> 
+<br></div>
                                                                                                          
-</div>
-                                                                                                                                              
-<h1> OBRIGADA PELA VISITA !! THANKS FOR VISITING ME  ! 💗 <img src="https://i.pinimg.com/originals/59/91/da/5991da42769d1826ea219fb3baa827df.gif" width="60" />   </h1>
-                                                                                                               
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
