@@ -54,13 +54,29 @@
 
 </div>
  
- ##
+ 
+</div>
+
  
 </div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{elda-paz}/count.svg" /></p> 
 <br></div>
+
+
+<!--Spotify and thanks-->
+
+<div align="center">
+
+### ✨ Thanks for your attention ✨
+  <a href="#">
+    <img
+      src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=00d7f6&bar_color_cover=false"
+      alt="Spotify now playing" height="100em"/>
+  </a>
+</div>
+
                                                                                                          
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
