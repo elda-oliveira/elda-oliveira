@@ -72,7 +72,7 @@
 ### ✨ Thanks for your attention ✨
   <a href="#">
     <img
-      src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=00d7f6&bar_color_cover=false"
+      src="https://spotify-github-profile.vercel.app/api/view?uid=jndel197mog704batdwry05kq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=236176&bar_color_cover=false"
       alt="Spotify now playing" height="100em"/>
   </a>
 </div>
