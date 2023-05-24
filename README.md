@@ -23,12 +23,8 @@
      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elda-paz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Elda Paz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-paz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=elda-paz&theme=gotham) 
     
-   
+ 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=elda-paz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -40,6 +36,7 @@
 </div> 
 
     
+</div>
 <h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28">Languages and Tools:</h3>
   </summary>
   </p>
