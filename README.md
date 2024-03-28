@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=01b0b0&height=71&lines=Hello!+Welcome+to+my+GitHub.;Systems+Analysis+and+Development++student;Always+learning+new+things." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6bfa62&height=71&lines=Hello!+Welcome+to+my+GitHub.;Systems+Analysis+and+Development++student;Always+learning+new+things." alt="Typing SVG" /></a>
 </p>
     </div>
     <img align="right" width="200" height="200" src="https://i.imgur.com/JjjkXnm.jpeg">
@@ -20,7 +20,7 @@
  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
  <div>
   <a href="https://github.com/elda-oliveira">
-     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elda-oliveira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=6bfa62&text_color=c9d1d9&bg_color=0d1117" alt="Elda Oliveira github stats" /> 
+     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elda-oliveira&show_icons=true&count_private=true&hide_border=true&title_color=6bfa62&icon_color=6bfa62&text_color=c9d1d9&bg_color=0d1117" alt="Elda Oliveira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-oliveira&layout=compact&hide_border=true&title_color=6bfa62&text_color=6bfa62&bg_color=0d1117" />
 </div>
     
