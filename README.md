@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6bfa62&height=71&lines=Hello!+Welcome+to+my+GitHub.;Systems+Analysis+and+Development++student;Always+learning+new+things." alt="Typing SVG" /></a>
 </p>
     </div>
-    <img align="right" width="200" height="200" src="https://i.imgur.com/JjjkXnm.jpeg">
+    <img align="right" width="200" height="200" src="https://imgur.com/a/HarrpM0">
 
 • 🛡️ Independent Cybersecurity Learner & Aspiring Ethical Hacker
 
