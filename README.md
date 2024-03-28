@@ -20,8 +20,8 @@
  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
  <div>
   <a href="https://github.com/elda-oliveira">
-     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elda-oliveira&show_icons=true&count_private=true&hide_border=true&title_color=6bfa62&icon_color=fc3dfd&text_color=c9d1d9&bg_color=0d1117" alt="Elda Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-oliveira&layout=compact&hide_border=true&title_color=6bfa62&text_color=6bfa62&bg_color=0d1117" />
+     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elda-oliveira&show_icons=true&count_private=true&hide_border=true&title_color=6bfa62&icon_color=fc78c4&text_color=c9d1d9&bg_color=0d1117" alt="Elda Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elda-oliveira&layout=compact&hide_border=true&title_color=6bfa62&text_color=fc78c4&bg_color=0d1117" />
 </div>
     
  
